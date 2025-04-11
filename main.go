@@ -17,6 +17,8 @@ func main() {
 		Ch6()
 	case 7:
 		Ch7()
+	case 8:
+		Ch8()
 	default:
 		fmt.Println("Unknown chapter: ", *chFlag)
 	}
